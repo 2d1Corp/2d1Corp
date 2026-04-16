@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Oleksandr 👋
 
-<!--
-**2d1Corp/2d1Corp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python backend developer in training, based in Prague 🇨🇿
 
-Here are some ideas to get you started:
+I've always been curious about how things work under the hood — 
+that's what eventually brought me to programming. Currently going 
+through a structured backend course and building real things along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+- Python (OOP, testing, file handling)
+- SQL
+- Django ORM
+- Git / GitHub
+
+---
+
+## 📚 Currently studying
+
+**Mate Academy — Python Backend** (9 of 21 modules completed)
+
+Completed: Python Core · OOP · SQL · Git  
+In progress: Django ORM  
+Up next: Django · DRF · FastAPI
+
+---
+
+## 🔨 Projects
+
+### [Discord Language Moderation Bot](https://github.com/2d1Corp/discord-language-moderator)
+A Discord bot that moderates messages in Ukrainian-focused communities.
+Detects pure Russian text while allowing Ukrainian, mixed speech, and dialects.
+Built for my own server — a real use case that motivated me to learn Python.
+*Developed with AI assistance.*
+
+---
+
+## 📫 Contact
+
+- Email: oleks.simochko@gmail.com  
+- LinkedIn: [oleksandr-simochko](https://www.linkedin.com/in/oleksandr-simochko/)
